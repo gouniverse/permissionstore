@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/gouniverse/permissionstore)](https://goreportcard.com/report/github.com/gouniverse/permissionstore)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/gouniverse/permissionstore)](https://pkg.go.dev/github.com/gouniverse/permissionstore)
 
-UserStore is a robust user management package.
+PermissionStore is a robust permission management package.
 
 Supports multiple database storages (SQLite, MySQL, or PostgreSQL)
 
